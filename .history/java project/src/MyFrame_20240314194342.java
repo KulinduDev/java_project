@@ -146,8 +146,6 @@ public class MyFrame extends JFrame{
                 cartTableModel.addRow(new Object[]{productID + " / "+  productName + " / " +  productDetails, quantity, price});
 
 
-// changes made
-
             }
         });
     }
